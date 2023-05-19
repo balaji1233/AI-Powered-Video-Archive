@@ -4,6 +4,6 @@ In this directory there are notebooks and scripts that demo how we built the You
 
 00-data-build.ipynb shows how we used the Kaggle YTTTS dataset with Beautiful Soup and other libraries to create the data used in the app. 
 
-01-yt-search.ipynb demonstrates the indexing and querying used to populate and query the index. 
+yt-search.ipynb demonstrates the indexing and querying used to populate and query the index. 
 
 app.py is the Streamlit script powering the app itself.
